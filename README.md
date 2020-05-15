@@ -1,0 +1,2 @@
+# gitExercici
+ejercicio pratico git
